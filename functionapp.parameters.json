@@ -3,25 +3,25 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "subscriptionId": {
-            "value": "10b3c05a-71e7-4408-9130-fe16d0d569de"
+            "value": ""
         },
         "name": {
-            "value": "ds-delivery"
+            "value": ""
         },
         "location": {
-            "value": "West Europe"
+            "value": ""
         },
         "hostingPlanName": {
-            "value": "ds-delivery-fn"
+            "value": ""
         },
         "serverFarmResourceGroup": {
-            "value": "delivery-service"
+            "value": ""
         },
         "alwaysOn": {
             "value": false
         },
         "storageAccountName": {
-            "value": "dsdeliveryfunctions"
+            "value": ""
         },
         "sku": {
             "value": "Dynamic"
